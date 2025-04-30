@@ -14,5 +14,11 @@ MENTOR : NEELA SANTOSH
 
 PERFORMED AI CHATBOT WITH THE HELP OF NLP
 
+#OUTPUT
+
+Chatbot: Hi! I'm your chatbot. Type 'bye' to exit.
+You: bye
+Chatbot: Bye! Have a great day.
+
 
 
